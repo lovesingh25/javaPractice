@@ -3,7 +3,7 @@ package trialjava;
 import java.util.Scanner;
 
 public class coinchange {
-	
+	//hello
 	public static int calChange(int n,int m,int[] a){
 		int count=0,i=0,j=0,num=0,t=0;
 		for(i=0;i<m;i++){

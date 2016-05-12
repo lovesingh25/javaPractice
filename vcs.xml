@@ -3,16 +3,8 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Coding25/codingPractice.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://github.com/lovesingh25/javaPractice.git" />
           <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com/" />
-          <option name="userName" value="lovesingh25" />
         </UrlAndUserName>
       </list>
     </option>

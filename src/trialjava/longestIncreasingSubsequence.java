@@ -4,7 +4,7 @@ public class longestIncreasingSubsequence {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int[] a = {10, 22, 9, 33, 21, 50, 100, 90, 80};
+		int[] a = {10, 22, 9, 33, 21, 50, 41, 60, 80};
 		int n = a.length;
 		int[] b = new int[n];
 		for(int i=n-1;i>=0;i--){

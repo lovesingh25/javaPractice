@@ -12,10 +12,11 @@ public class matrixMultiplication {
     private static int calOptimizedSolution(int[] p) {
         int[][] cost = new int[p.length][p.length];
         int j, k, q;
-        //one @ a time
+     /*   //one @ a time not needed in java as default value is zero
         for (int i = 1; i < p.length; i++) {
             cost[i][i] = 0;
         }
+        */
         for (int l = 2; l < p.length; l++) {
             for (int i = 1; i <= p.length - l; i++) {
                 j = i + l - 1;

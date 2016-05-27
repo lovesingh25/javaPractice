@@ -4,15 +4,16 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class binarySearchTree {
+	static int inorder[] = {4, 2, 5, 1, 6, 3};
+	static int preorder[] = {1, 2, 4, 5, 3, 6};
+	static int preindex = 0;
 			//hello
 	Node root;
 	Node prev;
 	binarySearchTree(){
 		root = null;
 	}
-	 static int inorder[] = { 4, 2, 5, 1 ,6, 3}; 
-	 static int preorder[] = { 1 ,2 ,4 ,5, 3, 6}; 
-	 static int preindex = 0; 
+
 	 public static void main(String[] args)
 	    {
 		 
@@ -39,19 +40,64 @@ public class binarySearchTree {
 		 tree.printAncestor(tree.root,8);
 		 */
 	    }
+
+	private static Node createTree(int start, int end) {
+		if (start > end) {
+			return null;
+		}
+		Node actual = null;
+		if (preindex < preorder.length) {
+			actual = new Node(preorder[preindex++]);
+		}
+		/* If this node has no children then return */
+		if (start == end) {
+			return actual;
+		}
+		int inIndex = 0;
+		for (int i = start; i < end; i++) {
+			if (actual != null && actual.data == inorder[i]) {
+				inIndex = i;
+				break;
+			}
+		}
+		if (actual != null) {
+			//System.out.println("start "+start+"index "+inIndex+"end "+end+"data "+actual.data);
+			actual.left = createTree(start, inIndex - 1);
+			actual.right = createTree(inIndex + 1, end);
+		}
+		return actual;
+	}
+
+	private static int maxdepth(Node root) {
+
+		if (root == null) {
+			return 0;
+		}
+		int l = maxdepth(root.left);
+		int r = maxdepth(root.right);
+
+		if (l > r) {
+			return (l + 1);
+		} else {
+			return (r + 1);
+		}
+	}
+
 	 public int numberOfNode(Node root){
 		 if(root == null){
 			 return 0;
 		 }
 		 return 1+(numberOfNode(root.left))+(numberOfNode(root.right));
 	 }
+
 	 public Boolean isBST(binarySearchTree tree){
 		 prev = null;
 		 return BSTorNot(tree.root);
 	 }
+
 	 Boolean BSTorNot(Node root){
-		if(root != null){	
-			
+		 if (root != null) {
+
 			if(!BSTorNot(root.left)){
 				return false;
 			}
@@ -59,16 +105,18 @@ public class binarySearchTree {
 				return false;
 			}
 			prev = root;
-			
-			return BSTorNot(root.right);
+
+			 return BSTorNot(root.right);
 		}
 		return true;
-		
-	}
+
+	 }
+
 	public void deleteNode(binarySearchTree tree,int key){
-		
+
 	}
-	 public Node insertNode(Node root , int key){
+
+	public Node insertNode(Node root , int key){
 		if(root == null){
 			root = new Node(key);
 		}
@@ -80,7 +128,8 @@ public class binarySearchTree {
 		}
 		return root;
 	 }
-	 public Node searchNode(Node root,int key){
+
+	public Node searchNode(Node root,int key){
 		 if(root == null || root.data == key){
 			 return root;
 		 }
@@ -90,79 +139,39 @@ public class binarySearchTree {
 		 else{
 			 return searchNode(root.left,key);
 		 }
-		 
-	 }
-	 
-	    Boolean printAncestor(Node node,int key) {
+
+	}
+
+	Boolean printAncestor(Node node,int key) {
 	    	if(node == null){
 	    		return false;
 	    	}
 	    	if(node.data == key){
 	    		return true;
 	    	}
-	    	
-	    	if(printAncestor(node.left,key) || printAncestor(node.right,key)){
+
+		if(printAncestor(node.left,key) || printAncestor(node.right,key)){
 	    		System.out.print(node.data + " ");
 	            return true;
 	    	}
 			return false;
 	    }
-	 /* This funtcion is here just to test buildTree() */
-	    void printInorder(Node node) {
+
+	/* This funtcion is here primeNumber to test buildTree() */
+	void printInorder(Node node) {
 	        if (node == null) {
 	            return;
 	        }
-	 
+
 	        /* first recur on left child */
 	        printInorder(node.left);
-	 
+
 	        /* then print the data of node */
 	        System.out.print(node.data + " ");
-	 
+
 	        /* now recur on right child */
 	        printInorder(node.right);
 	    }
-	private static Node createTree(int start,int end){
-		if( start > end){
-			return null;
-		}
-		Node actual = null;
-		if(preindex < preorder.length){
-			actual = new Node(preorder[preindex++]);
-		}
-		/* If this node has no children then return */
-        if (start == end) {
-            return actual;
-        }
-				int inIndex = 0;
-				for(int i=start;i<end;i++){
-					if(actual != null && actual.data == inorder[i]){
-						inIndex = i;
-						break;
-					}
-				}
-				if(actual != null){
-					//System.out.println("start "+start+"index "+inIndex+"end "+end+"data "+actual.data);
-					actual.left = createTree(start,inIndex-1);
-					actual.right = createTree(inIndex+1,end);
-				}
-				return actual;
-	}
-    private static int maxdepth(Node root){
-    
-    	if(root == null){
-    		return 0;		
-    	}
-        int l = maxdepth(root.left);
-        int r = maxdepth(root.right);
-        
-        if(l > r){
-        	return(l+1);
-        }
-        else{
-        	return(r+1);
-        }
-    }
 
 	private void depthSearch(binarySearchTree tree){
 		 Queue<Node> q = new LinkedList();

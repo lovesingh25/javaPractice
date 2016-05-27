@@ -114,6 +114,7 @@ public class absolutePermutations {
         }
         return true;
     }
+
     public static void main(String[] args) {
         int t;
         Scanner in = new Scanner(System.in);

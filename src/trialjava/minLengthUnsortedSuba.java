@@ -9,9 +9,7 @@ public class minLengthUnsortedSuba {
     public static void main(String[] arg) {
         int[] a = {0, 1, 15, 25, 6, 7, 30, 40, 50};
         int[] temp = new int[a.length];
-        for (int i = 0; i < a.length; i++) {
-            temp[i] = a[i];
-        }
+        System.arraycopy(a, 0, temp, 0, a.length);
         heapSort hs = new heapSort();
         hs.sort(temp);
         int start = -1, end = -1;

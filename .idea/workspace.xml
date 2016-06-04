@@ -2,56 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cba7f7c-74de-4b4a-9bb5-b7d4d02af690" name="Default" comment="Radix sort">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/trialjava/JimandOrders.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/trialjava/summaxSubArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/MergeBSTs.class" afterPath="$PROJECT_DIR$/bin/trialjava/MergeBSTs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/MinimumCost.class" afterPath="$PROJECT_DIR$/bin/trialjava/MinimumCost.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/Node.class" afterPath="$PROJECT_DIR$/bin/trialjava/Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/PangramCheck.class" afterPath="$PROJECT_DIR$/bin/trialjava/PangramCheck.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/Red_John.class" afterPath="$PROJECT_DIR$/bin/trialjava/Red_John.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/binarySearchTree.class" afterPath="$PROJECT_DIR$/bin/trialjava/binarySearchTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/depthFirstSearch.class" afterPath="$PROJECT_DIR$/bin/trialjava/depthFirstSearch.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/detectCycleUndirected.class" afterPath="$PROJECT_DIR$/bin/trialjava/detectCycleUndirected.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/disjointSet$disNode.class" afterPath="$PROJECT_DIR$/bin/trialjava/disjointSet$disNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/disjointSet.class" afterPath="$PROJECT_DIR$/bin/trialjava/disjointSet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/graph.class" afterPath="$PROJECT_DIR$/bin/trialjava/graph.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/heapSort.class" afterPath="$PROJECT_DIR$/bin/trialjava/heapSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/knapSack.class" afterPath="$PROJECT_DIR$/bin/trialjava/knapSack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/leastCommonAncestor.class" afterPath="$PROJECT_DIR$/bin/trialjava/leastCommonAncestor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/longestIncreasingSubsequence.class" afterPath="$PROJECT_DIR$/bin/trialjava/longestIncreasingSubsequence.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/mergeSort.class" afterPath="$PROJECT_DIR$/bin/trialjava/mergeSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/minimumEdits.class" afterPath="$PROJECT_DIR$/bin/trialjava/minimumEdits.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/myLinkedList$listNode.class" afterPath="$PROJECT_DIR$/bin/trialjava/myLinkedList$listNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/myLinkedList.class" afterPath="$PROJECT_DIR$/bin/trialjava/myLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/oddEven.class" afterPath="$PROJECT_DIR$/bin/trialjava/oddEven.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/oneprogram.class" afterPath="$PROJECT_DIR$/bin/trialjava/oneprogram.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/quickSort.class" afterPath="$PROJECT_DIR$/bin/trialjava/quickSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/rodCutting.class" afterPath="$PROJECT_DIR$/bin/trialjava/rodCutting.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/trialjava/verticalOrderTravesal.class" afterPath="$PROJECT_DIR$/bin/trialjava/verticalOrderTravesal.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IntelliLang.xml" afterPath="$PROJECT_DIR$/IntelliLang.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_windows/git.xml" afterPath="$PROJECT_DIR$/_windows/git.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_windows/hg.xml" afterPath="$PROJECT_DIR$/_windows/hg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_windows/keymap.xml" afterPath="$PROJECT_DIR$/_windows/keymap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_windows/laf.xml" afterPath="$PROJECT_DIR$/_windows/laf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_windows/path.macros.xml" afterPath="$PROJECT_DIR$/_windows/path.macros.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/debugger.renderers.xml" afterPath="$PROJECT_DIR$/debugger.renderers.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/debugger.xml" afterPath="$PROJECT_DIR$/debugger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diff.xml" afterPath="$PROJECT_DIR$/diff.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/github_settings.xml" afterPath="$PROJECT_DIR$/github_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle.run.settings.xml" afterPath="$PROJECT_DIR$/gradle.run.settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ide.general.xml" afterPath="$PROJECT_DIR$/ide.general.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inspection/Default.xml" afterPath="$PROJECT_DIR$/inspection/Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jdk.table.xml" afterPath="$PROJECT_DIR$/jdk.table.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mavenVersion.xml" afterPath="$PROJECT_DIR$/mavenVersion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/other.xml" afterPath="$PROJECT_DIR$/other.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.default.xml" afterPath="$PROJECT_DIR$/project.default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/KthNumber.java" afterPath="$PROJECT_DIR$/src/trialjava/KthNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/MergeBSTs.java" afterPath="$PROJECT_DIR$/src/trialjava/MergeBSTs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/MinimumCost.java" afterPath="$PROJECT_DIR$/src/trialjava/MinimumCost.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/Node.java" afterPath="$PROJECT_DIR$/src/trialjava/Node.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/PangramCheck.java" afterPath="$PROJECT_DIR$/src/trialjava/PangramCheck.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/Red_John.java" afterPath="$PROJECT_DIR$/src/trialjava/Red_John.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/absolutePermutations.java" afterPath="$PROJECT_DIR$/src/trialjava/absolutePermutations.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/binarySearchTree.java" afterPath="$PROJECT_DIR$/src/trialjava/binarySearchTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/coinchange.java" afterPath="$PROJECT_DIR$/src/trialjava/coinchange.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/depthFirstSearch.java" afterPath="$PROJECT_DIR$/src/trialjava/depthFirstSearch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/detectCycleUndirected.java" afterPath="$PROJECT_DIR$/src/trialjava/detectCycleUndirected.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/disjointSet.java" afterPath="$PROJECT_DIR$/src/trialjava/disjointSet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/graph.java" afterPath="$PROJECT_DIR$/src/trialjava/graph.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/heapSort.java" afterPath="$PROJECT_DIR$/src/trialjava/heapSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/knapSack.java" afterPath="$PROJECT_DIR$/src/trialjava/knapSack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/leastCommonAncestor.java" afterPath="$PROJECT_DIR$/src/trialjava/leastCommonAncestor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/longestIncreasingSubsequence.java" afterPath="$PROJECT_DIR$/src/trialjava/longestIncreasingSubsequence.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/mergeSort.java" afterPath="$PROJECT_DIR$/src/trialjava/mergeSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/minLengthUnsortedSuba.java" afterPath="$PROJECT_DIR$/src/trialjava/minLengthUnsortedSuba.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/minimumEdits.java" afterPath="$PROJECT_DIR$/src/trialjava/minimumEdits.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/minimumdistance.java" afterPath="$PROJECT_DIR$/src/trialjava/minimumdistance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/myLinkedList.java" afterPath="$PROJECT_DIR$/src/trialjava/myLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/oddEven.java" afterPath="$PROJECT_DIR$/src/trialjava/oddEven.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/oneprogram.java" afterPath="$PROJECT_DIR$/src/trialjava/oneprogram.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/primeNumber.java" afterPath="$PROJECT_DIR$/src/trialjava/primeNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/quickSort.java" afterPath="$PROJECT_DIR$/src/trialjava/quickSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/rodCutting.java" afterPath="$PROJECT_DIR$/src/trialjava/rodCutting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/trialjava/verticalOrderTravesal.java" afterPath="$PROJECT_DIR$/src/trialjava/verticalOrderTravesal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui.lnf.xml" afterPath="$PROJECT_DIR$/ui.lnf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vcs.xml" afterPath="$PROJECT_DIR$/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-browsers.xml" afterPath="$PROJECT_DIR$/web-browsers.xml" />
     </list>
     <ignored path="trialjava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,7 +49,7 @@
     <favorites_list name="trialjava" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,6 +88,9 @@
         <option value="$PROJECT_DIR$/src/trialjava/minLengthUnsortedSubarr.java" />
         <option value="$PROJECT_DIR$/src/trialjava/myLinkedList.java" />
         <option value="$PROJECT_DIR$/src/trialjava/minLengthUnsortedSuba.java" />
+        <option value="$PROJECT_DIR$/src/trialjava/summaxSubArray.java" />
+        <option value="$PROJECT_DIR$/src/trialjava/sumMaxSubArray.java" />
+        <option value="$PROJECT_DIR$/src/trialjava/JimandOrders.java" />
       </list>
     </option>
   </component>
@@ -146,7 +126,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -166,8 +145,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trialjava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trialjava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trialjava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,15 +192,15 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="840" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
-  <component name="RunManager" selected="Application.minLengthUnsortedSuba">
-    <configuration default="false" name="detectCycleUndirected" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.JimandOrders">
+    <configuration default="false" name="minLengthUnsortedSuba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="trialjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="trialjava.detectCycleUndirected" />
+      <option name="MAIN_CLASS_NAME" value="trialjava.minLengthUnsortedSuba" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -215,14 +213,54 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="summaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="trialjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="trialjava.quickSort" />
+      <option name="MAIN_CLASS_NAME" value="trialjava.summaxSubArray" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="trialjava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="sumMaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="trialjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="trialjava.sumMaxSubArray" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="trialjava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="JimandOrders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="trialjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="trialjava.JimandOrders" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -236,48 +274,13 @@
       <method />
     </configuration>
     <configuration default="false" name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="trialjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="MAIN_CLASS_NAME" value="trialjava.mergeSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="trialjava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="radixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="trialjava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="trialjava.radixSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="trialjava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="minLengthUnsortedSuba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="trialjava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="trialjava.minLengthUnsortedSuba" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -556,19 +559,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.detectCycleUndirected" />
-      <item index="1" class="java.lang.String" itemvalue="Application.quickSort" />
-      <item index="2" class="java.lang.String" itemvalue="Application.mergeSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.radixSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.minLengthUnsortedSuba" />
+      <item index="0" class="java.lang.String" itemvalue="Application.minLengthUnsortedSuba" />
+      <item index="1" class="java.lang.String" itemvalue="Application.summaxSubArray" />
+      <item index="2" class="java.lang.String" itemvalue="Application.sumMaxSubArray" />
+      <item index="3" class="java.lang.String" itemvalue="Application.JimandOrders" />
+      <item index="4" class="java.lang.String" itemvalue="Application.mergeSort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.minLengthUnsortedSuba" />
-        <item index="1" class="java.lang.String" itemvalue="Application.radixSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.mergeSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.quickSort" />
-        <item index="4" class="java.lang.String" itemvalue="Application.detectCycleUndirected" />
+        <item index="0" class="java.lang.String" itemvalue="Application.JimandOrders" />
+        <item index="1" class="java.lang.String" itemvalue="Application.mergeSort" />
+        <item index="2" class="java.lang.String" itemvalue="Application.sumMaxSubArray" />
+        <item index="3" class="java.lang.String" itemvalue="Application.summaxSubArray" />
+        <item index="4" class="java.lang.String" itemvalue="Application.minLengthUnsortedSuba" />
       </list>
     </recent_temporary>
   </component>
@@ -600,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1461261395046</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Radix sort">
+      <created>1464380331569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1464380331569</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -609,28 +619,28 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30196938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -682,7 +692,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="7" />
+      <option name="time" value="40" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -695,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,15 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trialjava/radixSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -784,15 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/trialjava/mergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-442">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,7 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,7 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,7 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -824,7 +812,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trialjava/sumMaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trialjava/radixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trialjava/mergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trialjava/JimandOrders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="96" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1340#1360#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,20 +1,59 @@
 package trialjava;
 
-public class primeNumber {
+import java.io.InputStreamReader;
+import java.io.BufferedReader;
+
+class primeNumber {
     public static void main(String[] args) {
-        printPrimNumbers(2);
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int t = 1, i = 0;
+        int[] n = null, m = null;
+        try {
+            t = Integer.parseInt(br.readLine());
+            n = new int[t];
+            m = new int[t];
+            i = 0;
+            while (i < t) {
+                String[] intValues = br.readLine().split(" ");
+                m[i] = Integer.parseInt(intValues[0]);
+                n[i] = Integer.parseInt(intValues[1]);
+                i++;
+            }
+        } catch (Exception e) {
+
+        }
+        i = 0;
+        while (i < t) {
+            printPrimNumbers(m[i], n[i]);
+            i++;
+            System.out.println();
+        }
     }
 
-    public static void printPrimNumbers(int n) {
+    private static Boolean isoddCheck(int n) {
+        if ((n & 1) == 1) {
+            return true;
+        }
+        return false;
+    }
+
+    private static void printPrimNumbers(int m, int n) {
         Boolean isPrime;
-        for (int i = 2; i <= n; i++) {
+        if (m == 1 || m == 2) {
+            System.out.println(2);
+            m = 3;
+        } else if (!isoddCheck(m)) {
+            m++;
+        }
+        for (int i = m; i <= n; i = i + 2) {
             isPrime = true;
-            for (int j = 2; j <= java.lang.Math.sqrt(i); j++) {
+            for (int j = 3; j * j <= i; j = j + 2) {
                 if (i % j == 0) {
                     isPrime = false;
                     break;
+
                 }
-            }
+                }
             if (isPrime) {
                 System.out.println(i);
             }

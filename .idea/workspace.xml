@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cba7f7c-74de-4b4a-9bb5-b7d4d02af690" name="Default" comment="Radix sort">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/trialjava/FlippingCoins.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/trialjava/NextPalindrome.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="trialjava.iws" />
@@ -623,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1465644165059</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Radix sort">
+      <created>1465840268378</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1465840268378</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -770,6 +775,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -8,8 +8,7 @@ public class mergeSort {
         int n1 = m - s + 1, n2 = e - m;
         int[] l = new int[n1];
         int[] r = new int[n2];
-        int i = 0, j = 0, k = 0;
-        k = s;
+        int i = 0, j = 0, k = s;
         while (i < n1) {
             l[i] = a[k];
             i++;

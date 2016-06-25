@@ -18,7 +18,7 @@ public class heapSort {
         System.out.println();
     }
 
-    public void sort(int arr[]) {
+    public void sort(int[] arr) {
         int n = arr.length;
         for (int i = (n / 2) - 1; i >= 0; i--) {
             heapify(arr, n, i);
@@ -31,7 +31,7 @@ public class heapSort {
         }
     }
 
-    private void heapify(int arr[], int n, int i) {
+    private void heapify(int[] arr, int n, int i) {
         int largest = i;
         int l = 2 * i + 1;
         int r = 2 * i + 2;
